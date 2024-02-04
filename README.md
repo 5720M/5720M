@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @5720M
-- 👀 I’m interested in Hacking, Python
-- 🌱 I’m currently learning HAcking, Python
+- 👀 I’m interested in Hacking, Python , DDOS
+- 🌱 I’m currently learning HAcking, Python , DDOS
 - 💞️ I’m looking to collaborate on All
 - 📫 How to reach me DM
 - 😄 Pronouns: Hmm nothing
